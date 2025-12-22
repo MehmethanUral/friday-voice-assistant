@@ -32,7 +32,7 @@ Friday is a personalized voice assistant built with Python. It helps users manag
 
 &nbsp;   ```bash
 
-&nbsp;   git clone \[https://github.com/yourusername/friday-voice-assistant.git](https://github.com/yourusername/friday-voice-assistant.git)
+&nbsp;   git clone \[https://github.com/MehmethanUral/friday-voice-assistant.git](https://github.com/MehmethanUral/friday-voice-assistant.git)
 
 &nbsp;   cd friday-voice-assistant
 
